@@ -1,0 +1,78 @@
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+a {background-color:#ffc107;}
+
+  p.title {
+    text-align:center;
+    color:orange;
+    font-size:2.1em;
+    font-weight:bold
+   }
+p.abstract{
+  text-align:center;
+  font-style: italic;
+  color:green;
+  padding-top:10px;
+  padding-right:80px;
+  padding-bottom:10px;
+  padding-left:80px;
+}
+div.top{
+height:30%;
+}
+div.bottom{
+  height:70%;
+}
+div.left{
+  width:20%;
+  float:left;
+}
+div.right{
+  width:60%;
+  float:left;
+}
+
+  
+
+            .container {
+                width: 100%;
+            }
+            .block {
+                float: left;
+                width: 40%;
+                border: solid red;
+                margin: 1em;
+            }
+            .block_break {
+                clear: left;
+                border: solid green;
+            }
+            #s007{
+              background-color:yellow;
+              border:solid;
+              border-color:blue;
+            }
+
+        
+
+   img{ 
+   width:320px
+   }
+   .lecture{
+     font-size:3em;
+   } a:linl{
+     color:red;
+   }
+   /*visited link*/
+   a:visited{
+     color:purple;
+   }
+   /*mouse over link*/
+   a:hover{
+     color:yellow;
+   }
+   /*selected link*/
+   a:active{
+     color:purple;
+   }
